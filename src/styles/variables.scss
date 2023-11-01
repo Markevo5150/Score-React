@@ -1,0 +1,28 @@
+// /*Colors*/
+// $LightRed: hsl(0, 100%, 67%);
+// $OrangeyYellow: hsl(39, 100%, 56%);
+// $GreenTeal: hsl(166, 100%, 37%);
+// $CobaltBlue: hsl(234, 85%, 45%);
+// $White: hsl(0, 0%, 100%);
+// $PaleBlue: hsl(221, 100%, 96%);
+// $LightLavender: hsl(241, 100%, 89%);
+// $DarkGrayBlue: hsl(224, 30%, 27%);
+
+// /*Gradients colors*/
+// $LightSlateBlue: /*Background*/ hsl(252, 100%, 67%);
+// $LightRoyalBlue: /*Background*/ hsl(241, 81%, 54%);
+// $VioletBlue: /*(circle)*/ hsla(256, 72%, 46%, 1);
+// $PersianBlue: /*(circle)*/ hsla(241, 72%, 46%, 0);
+
+// /*Real gradiets*/
+// $resultsGradient: linear-gradient(to bottom, $LightSlateBlue, $LightRoyalBlue);
+// $circleGradient: linear-gradient(to top, $PersianBlue, $VioletBlue);
+
+// /*Fonts*/
+// $normalFont: 500;
+// $boldFont: 700;
+// $extraBold: 800;
+
+:root {
+  --lightRed: #ff5757;
+}
